@@ -1,0 +1,25 @@
+h1 {
+  color: coral;
+  font-family:sans-serif;
+  size: 300px;
+  text-align: center;
+}
+h2 {
+  text-align: left;
+  color: #3E4E50;
+  size: 80px;
+  font-family: sans-serif;
+}
+p {
+  text-indent: 100px;
+  color: #3E4E50;
+  font-family: sans-serif;
+  size: 100px;
+}
+body {
+  background-color: #F5AC72;
+   width: 800px;
+  border: 10px dotted coral;
+  padding: 50px;
+  margin: 20px;
+   }
