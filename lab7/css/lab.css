@@ -1,0 +1,23 @@
+body {
+  background-color:#8D94BA;
+  border: 20px dotted #B4EDD2;
+  padding: 25px 150px 75px 100px;
+
+}
+h1 {background-color: #8D94BA;
+color: #B4EDD2;
+ font-size: 35px;
+ font-family: Arial;
+}
+h3 {
+  background-color: #8D94BA;
+  color: #87677B;
+   font-size: 24px;
+   font-family: Arial;
+}
+p {background-color: #8D94BA;
+color: #B4EDD2;
+font-size: 14px;
+font-family: Arial;
+
+}

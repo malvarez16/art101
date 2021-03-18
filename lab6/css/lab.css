@@ -1,0 +1,25 @@
+body {
+  background-color: #E8FFB7;
+    padding: 25px 150px 75px 100px;
+}
+h1 {background-color: #E8FFB7;
+color: #E2A0FF;
+ font-size: 32px;
+ font-family: Monaco;
+
+}
+img {
+  border: 8px dashed #E2A0FF;
+}
+h3 {
+  background-color: #E8FFB721;
+  color: #E2A0FF;
+   font-size: 24px;
+   font-family: Monaco;
+}
+p {background-color: #E8FFB7;
+color: #791E94;
+font-size: 14px;
+font-family: Monaco;
+
+}
